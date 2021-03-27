@@ -7,5 +7,7 @@ Graphical user interfaces was developed using Java Swing components. Data was st
 This application has three types of users: administrator, waiter and chef.
 
 Administartor can add/edit/delete/view menu item.
+
 Waiter can add/view orders and generate bill.
+
 Chef can view products to be prepared.
